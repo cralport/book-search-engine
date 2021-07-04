@@ -9,10 +9,15 @@ This application uses React to create a google book search engine.  Here the use
 For this React app the technologies used are:
 
 React
+
 Bcrypt
+
 Express
+
 MongoDB
+
 Mongoose
+
 JWT (JsonWeb Token)
 
 ## Usage
